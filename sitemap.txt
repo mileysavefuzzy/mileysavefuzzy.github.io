@@ -1,7 +1,7 @@
-﻿http://www.mileysavefuzzy.com
-http://www.mileysavefuzzy.com/demise.html
-http://www.mileysavefuzzy.com/faq.html
-http://www.mileysavefuzzy.com/updates.html
-http://www.mileysavefuzzy.com/pictures.html
-http://www.mileysavefuzzy.com/recipes.html
-http://www.mileysavefuzzy.com/response.html
+﻿https://www.mileysavefuzzy.com
+https://www.mileysavefuzzy.com/demise.html
+https://www.mileysavefuzzy.com/faq.html
+https://www.mileysavefuzzy.com/updates.html
+https://www.mileysavefuzzy.com/pictures.html
+https://www.mileysavefuzzy.com/recipes.html
+https://www.mileysavefuzzy.com/response.html
